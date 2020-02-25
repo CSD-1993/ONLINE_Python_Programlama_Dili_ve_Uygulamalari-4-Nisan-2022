@@ -1,6 +1,6 @@
 # Python Programlama Dİli ve Uygulamaları Kurs İçeriği
 
-  * Temel Kavramlar 
+* Temel Kavramlar 
   * Programlama Dillerinin Tarihsel Gelişimi
   * Python Programlama Dilinin Tarihsel Gelişimi
   * Python Dili, Python Gerçekleştirimleri ve Python Dağıtımları
@@ -92,7 +92,7 @@
     * Modül İsimlerinin Anlamı
     * sys.path Listesinin Anlamı
     * Python Programlarında Çalışma Dizinlerinin Değiştirilmesi
-    * Modülün import Edilmesiyle Çalıştırılması Program Olarak Arasındaki Farklar
+    * Modülün import Edilmesiyle Çalıştırılması Arasındaki Farklar
 
 * Tamamlayıcı Konular
     * Python'da Rastgele Sayıların Elde Edilmesi
@@ -131,11 +131,11 @@
     * Çokbiçimlilik (Polymorphism)
     * Sınıfların \__str\__ ve \__repr\__ Metotları
     * Python'da Çöp Toplayıcı Mekanizma
-    * Deterministik Çöp Toplama Sınıfların \__del\__ Metotları
+    * Deterministik Çöp Toplama ve Sınıfların \__del\__ Metotları
     * Operatör Metotları
-    * Sınıfların Static Metotları
+    * Sınıfların Statik Metotları
     * Sınıfların Sınıf Metotları
-    * Sınıflardaki Özel Dunder Metotları
+    * Sınıflardaki Diğer Özel Dunder Metotları
     * Dolaşılabilir (Irterable) Sınıfların Oluşturulması
     * Property Kavramı ve Property Kullanımı
     * Betimleyiciler
@@ -149,6 +149,9 @@
 
 * Exception Mekanizması
     * Python'da Exception Mekanizmasının Kullanımı
+    * Exception'ların oluşturulması ve yakalanması
+    * Exception Sınıflarının Yazılması
+    * Çok Karşılaşılan Exception Sınıfları
     * with deyimi
 
 * Python'da Dosya İşlemleri
@@ -156,7 +159,7 @@
     * Dosyaların Açılması ve Kapatılması
     * Dosyalarda Yazma ve Okuma İşlemleri
     * Text ve Binary Dosyalar
-    * Text Dosyalarda Karakter Kpdlaması (Character Encoding)
+    * Text Dosyalarda Karakter Kodlaması (Character Encoding)
     * Karakter Kodlama Dönüştürmeleri
 
 * Üretici Fonksiyonlar ve Lambda İfadeleri
