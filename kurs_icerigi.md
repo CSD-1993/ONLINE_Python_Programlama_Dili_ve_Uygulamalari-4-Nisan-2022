@@ -1,6 +1,6 @@
 # Python Programlama Dİli ve Uygulamaları Kurs İçeriği
 
-* Temel Kavramlar 
+  # Temel Kavramlar 
   * Programlama Dillerinin Tarihsel Gelişimi
   * Python Programlama Dilinin Tarihsel Gelişimi
   * Python Dili, Python Gerçekleştirimleri ve Python Dağıtımları
