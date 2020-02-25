@@ -125,13 +125,13 @@
     * Nesne Yönelimli Programlama Tekniğinde Sınıflar Arasındaki İlişki Biçimleri
     * Sınıflarda Türetme İşlemleri (Inheritance)
     * Çoklu Türetmeler (Multiple Inheritance)
-    * Türetme Durumlarında Taban Sınıfın \__init__ Metodunun Çağrılması
+    * Türetme Durumlarında Taban Sınıfın \__init\__ Metodunun Çağrılması
     * super Fonksiyonu
     * Sınıflarda Kapsülleme (Encapsulation)
     * Çokbiçimlilik (Polymorphism)
-    * Sınıfların \__str__ ve \__repr__ Metotları
+    * Sınıfların \__str\__ ve \__repr\__ Metotları
     * Python'da Çöp Toplayıcı Mekanizma
-    * Deterministik Çöp Toplama Sınıfların \__del__ Metotları
+    * Deterministik Çöp Toplama Sınıfların \__del\__ Metotları
     * Operatör Metotları
     * Sınıfların Static Metotları
     * Sınıfların Sınıf Metotları
@@ -139,7 +139,7 @@
     * Dolaşılabilir (Irterable) Sınıfların Oluşturulması
     * Property Kavramı ve Property Kullanımı
     * Betimleyiciler
-    * Sınıfların __get__, __set__ ve __delete__ Metotları
+    * Sınıfların \__get\__, \__set\__ ve \__delete\__ Metotları
 
 * Dekoratörler
     * Dekoratörlerin Anlamı
@@ -174,6 +174,6 @@
 * Python'da Paketler (Packages)
     * Paket Kavramı
     * Paketlerin Oluşturulması ve import Edilmesi
-    * Paketlerdeki __init__.py Dosyasının Anlamı
+    * Paketlerdeki \__init\__.py Dosyasının Anlamı
     * İç İçe Paketlerin Oluşturulması
     * Paket Yönetimi
