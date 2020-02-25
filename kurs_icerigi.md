@@ -1,6 +1,6 @@
 # Python Programlama Dİli ve Uygulamaları Kurs İçeriği
 
-  # Temel Kavramlar 
+  * Temel Kavramlar 
   * Programlama Dillerinin Tarihsel Gelişimi
   * Python Programlama Dilinin Tarihsel Gelişimi
   * Python Dili, Python Gerçekleştirimleri ve Python Dağıtımları
@@ -34,18 +34,19 @@
     * Python'da Dinamik Tür Sisteminin Gerçekleştirilme Biçimi
     * Python Standart Kütüphanesi Nedir ve Nelerden Oluşmaktadır? 
     * Fonksiyon ve Metot Kavramları
-    * Built-in Fonksiyon Kavramı
+    * Built-in Fonksiyon ve Sınıf Kavramları
     * Operatör Kavramı, Operatörler Arasındaki Öncelik İlişkileri
     * Python'da Operatörler
     * Tür Dönüştürmeleri 
     * input ve print Fonksiyonlarının Ayrıntıları
+    * Python Programlarının Yazılması ve Çalıştırılması
 
 * Python'da Temel Veri Yapıları
     * Dolaşılabilir (Iterable) Nesne Kavramı
     * range Fonksiyonu
     * Listeler
     * Listeler Üzerinde İşlemler
-    * Listelerde Üzerinde Dilimleme İşlemleri
+    * Listeler Üzerinde Dilimleme İşlemleri (List Slicing)
     * Listelerin Açılması (List Unpacking)
     * Listelerle Çok Boyutlu Dizilerin Oluşturulması
     * Demetler (Tuples)
@@ -63,7 +64,6 @@
 
 * Python'da Deyimler (Statements)
     * Farklı Türlerin Birbirleriyle İşleme Sokulması
-    * Python Programlarının Yazılması ve Çalıştırılması
     * Satırların Girinti Düzeyleri (Indent Level)
     * Deyim Kavramı ve Deyimlerin Sınıflandırılması
     * İfadesel Deyimler (Expression Statements)
@@ -81,8 +81,8 @@
     * Fonksiyon İsimlerinin Anlamı
     * Fonksiyonların Parametre Değişkenleri
     * Fonksiyonların \*'lı ve \**'lı Parametreleri
-    * Fonksiyon Çağrılarında Argümanlar Kullanımı
-    * \*'lı \**'lı Argümanlarının Kullanımı
+    * Fonksiyon Çağrılarında Argümanların Kullanımı
+    * \*'lı \**'lı Argümanlar
     * Fonksiyon Parametrelerinde Tür Kontrolü
     * İç İçe Fonksiyon Tanımlamaları
 
