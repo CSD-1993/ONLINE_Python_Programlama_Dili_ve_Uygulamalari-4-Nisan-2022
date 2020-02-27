@@ -1,4 +1,4 @@
-## Pyton Programlama Dili ve Uygulamalari Kursu
+## Pyton Programlama Dili ve Uygulamalar Kursu
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
 + Kurs `23 Ocak 2020` tarihinde başlayacaktır.
