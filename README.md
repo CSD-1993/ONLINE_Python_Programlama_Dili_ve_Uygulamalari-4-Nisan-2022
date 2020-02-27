@@ -1,1 +1,1 @@
-# Pyton_Programlama_Dili_ve_Uygulamalari
+# Pyton Programlama Dili ve Uygulamalari
