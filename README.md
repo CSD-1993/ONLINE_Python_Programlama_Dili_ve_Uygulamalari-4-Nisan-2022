@@ -10,7 +10,8 @@
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Pyton_Programlama_Dili_ve_Uygulamalari/blob/master/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Pyton_Programlama_Dili_ve_Uygulamalari/blob/master/kurs_icerigi.md)
++ [Kurs İçeriği - Temel Kısım](https://github.com/CSD-1993/Pyton_Programlama_Dili_ve_Uygulamalari/blob/master/kurs_icerigi_temel_kisim.md)
++ [Kurs İçeriği - Uygulama Kısmı](https://github.com/CSD-1993/Pyton_Programlama_Dili_ve_Uygulamalari/edit/master/kurs_icerigi_uygulama.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Pyton_Programlama_Dili_ve_Uygulamalari/blob/master/sss.md)
 + [Kursa Kayıt](https://zoom.us/meeting/register/v5Qld--oqD0rVJfrvoJARlKBjXL6DywZAQ)
 
