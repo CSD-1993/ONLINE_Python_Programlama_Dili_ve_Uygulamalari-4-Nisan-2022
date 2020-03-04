@@ -1,4 +1,5 @@
-# Python Programlama Dİli ve Uygulamaları Kurs İçeriği
+# Python Programlama Dili ve Uygulamaları Kursu 1. Bölüm
+
 
 * Temel Kavramlar 
   * Programlama Dillerinin Tarihsel Gelişimi
