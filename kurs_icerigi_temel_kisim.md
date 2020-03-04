@@ -20,7 +20,7 @@
   * Programlama Dillerinin Sınıflandırılması
   * Programlama Dillerinin Sentakslarının Açıklanması İçin Kullanılan Notasyonlar
 
-* Python Programlama Diline Giriş
+* __Python Programlama Diline Giriş__
     * Komut Yorumlayıcı Ortamda (REPL) Çalışma
     * Atom (Token) Kavramı ve Atomların Sınıflandırılması
     * Boşluk Karakterleri (White Space)
@@ -41,7 +41,7 @@
     * input ve print Fonksiyonlarının Ayrıntıları
     * Python Programlarının Yazılması ve Çalıştırılması
 
-* Python'da Temel Veri Yapıları
+* __Python'da Temel Veri Yapıları__
     * Dolaşılabilir (Iterable) Nesne Kavramı
     * range Fonksiyonu
     * Listeler
@@ -62,7 +62,7 @@
     * String'lerin Dilimlenmesi
     * len Fonksiyonu ve in Opereratörünün İşlevleri
 
-* Python'da Deyimler (Statements)
+* __Python'da Deyimler (Statements)__
     * Farklı Türlerin Birbirleriyle İşleme Sokulması
     * Satırların Girinti Düzeyleri (Indent Level)
     * Deyim Kavramı ve Deyimlerin Sınıflandırılması
@@ -76,7 +76,7 @@
     * Koşul Operatörü
     * pass Deyimi
 
-* Fonksiyonların Tanımlanması ve Fonksiyonlarla İşlemler
+* __Fonksiyonların Tanımlanması ve Fonksiyonlarla İşlemler__
     * Fonksiyonların Tanımlanması ve Fonksiyon Nesneleri
     * Fonksiyon İsimlerinin Anlamı
     * Fonksiyonların Parametre Değişkenleri
@@ -86,7 +86,7 @@
     * Fonksiyon Parametrelerinde Tür Kontrolü
     * İç İçe Fonksiyon Tanımlamaları
 
-* Modüller
+* __Modüller__
     * Modüllerin Oluşturulması
     * Modüllerin import Edilmesi
     * Modül İsimlerinin Anlamı
@@ -94,7 +94,7 @@
     * Python Programlarında Çalışma Dizinlerinin Değiştirilmesi
     * Modülün import Edilmesiyle Çalıştırılması Arasındaki Farklar
 
-* Tamamlayıcı Konular
+* __Tamamlayıcı Konular__
     * Python'da Rastgele Sayıların Elde Edilmesi
     * Değişkenlerin Faaliyet Alanları (Scope)
     * Değişkenlerin Ömürleri
@@ -103,14 +103,14 @@
     * bytes ve bytearray Türleri
     * Permütasyon ve Kombinasyon İşlemleri
 
-* İçlemler (Comprehensions)
+* __İçlemler (Comprehensions)__
     * İçlemlerin Genel Sentaks Biçimleri
     * Liste İçlemleri (List Comprehensions)
     * Küme İçlemleri (Set Comprehensions)
     * Sözlük İçlemleri (Dictionary Comprehensions)
     * İçlemler nerede Kullanılır ve İçlemlere Neden Gereksinim Duyulmaktadır?
 
-* Sınıflar
+* __Sınıflar__
     * Nesne Yönelimli Programlama Modeli ve Sınıf Kavramı
     * Sınıfların Tanımlanması
     * Sınıflar Türünden Nesnelerin Yaratılması
@@ -141,20 +141,20 @@
     * Betimleyiciler
     * Sınıfların \__get\__, \__set\__ ve \__delete\__ Metotları
 
-* Dekoratörler
+* __Dekoratörler__
     * Dekoratörlerin Anlamı
     * Fonksiyon Dekoratörleri
     * Sınıf Dekoratörleri
     * Önemli sınıf Dekaratörleri
 
-* Exception Mekanizması
+* __Exception Mekanizması__
     * Python'da Exception Mekanizmasının Kullanımı
     * Exception'ların oluşturulması ve yakalanması
     * Exception Sınıflarının Yazılması
     * Çok Karşılaşılan Exception Sınıfları
     * with deyimi
 
-* Python'da Dosya İşlemleri
+* __Python'da Dosya İşlemleri__
     * Dosya İşlemleri
     * Dosyaların Açılması ve Kapatılması
     * Dosyalarda Yazma ve Okuma İşlemleri
@@ -162,19 +162,19 @@
     * Text Dosyalarda Karakter Kodlaması (Character Encoding)
     * Karakter Kodlama Dönüştürmeleri
 
-* Üretici Fonksiyonlar ve Lambda İfadeleri
+* __Üretici Fonksiyonlar ve Lambda İfadeleri__
     * Üretici Fonksiyon (Generators) Kavramı
     * Üretici Fonksiyonların Tanımlanması ve Kullanılması
     * Lambda İfadeleri
 
-* Diğer Önemli Built-In Fonksiyonlar
+* __Diğer Önemli Built-In Fonksiyonlar__
     * eval Fonksiyonu
     * exec Fonksiyonu
     * compiler Fonksiyonu
     * property Fonksiyonu
     * locals Fonksiyonu
 
-* Python'da Paketler (Packages)
+* __Python'da Paketler (Packages)__
     * Paket Kavramı
     * Paketlerin Oluşturulması ve import Edilmesi
     * Paketlerdeki \__init\__.py Dosyasının Anlamı
