@@ -1,6 +1,6 @@
-# Python Uygulamaları Uygulama Kısmı
+# Python Programlama Dili ve Uygulamaları Kursu <br>Uygulama Kısmı (80 saat)
 
-* Genel Amaçlı Bazı İşlemlerin Gerçekleştirilmesi
+* __Genel Amaçlı Bazı İşlemlerin Gerçekleştirilmesi__
     * Standart Kütüphanede Tarih ve Zaman İşlemleri Yapan Fonksiyonların ve Sınıfların Kullanımı
     * Dizin ve Dosyalar Üzerinde İşlemler Yapan Fonksiyonların ve Sınıfların Kullanımı
     * İşletim Sistemi İle İlgili Aşağı Seviyeli Önemli Bazı İşlemlerin Yapılması
@@ -12,7 +12,7 @@
     * Nesnelerin Seri Hale Getirilmesi 
     * Programların Komut Satırı Argümanları
 
-* Python'da Veritabanı İşlemleri
+* __Python'da Veritabanı İşlemleri__
    * Veritabanı Yönetim Sistemleri (VTYS)
    * SqLite, MySQL ve SqlServer VTYS'leri Hakkında Temel Bilgiler
    * İlişkisel Veritabanları
@@ -22,7 +22,7 @@
    * VTYS'lerle Sorgulama İşlemleri
    * Python'da Anahtar Değer Temelli DBM Veritabanı Kullanımı
 
-* Python'da Thread Uygulamaları
+* __Python'da Thread Uygulamaları__
    * Thread Kavramı
    * Thread'lerin Yaratılması ve Sonlanması
    * Thread'lerle İlgili Temel İşlemler
@@ -38,28 +38,28 @@
    * Paylaşılan Bellek Alanlarının Kullanımı
    * Boru Mekanizmasının Kullanımı
 
-* Python'da GUI Uygulamaları
+* __Python'da GUI Uygulamaları__
    * GUI Ortamlarında Mesaj Tabanlı Çalışma Modeli
    * PyQt Kütüphanesinin Kullanılması
    * Tkinter Kütüphanesinin Kullanılması
 
-* Python'da Proseslerarası Haberleşme ve Network Ağ Haberleşmeleri
+* __Python'da Proseslerarası Haberleşme ve Network Ağ Haberleşmeleri__
    * IP Protokol Ailesi
    * Python'da Soket Programlama
-   *Client-Server Çalışma Modeli
+   * Client-Server Çalışma Modeli
    * TCP/IP Uygulamaları
    * UDP/IP Uygulamaları
    * E-Posta Alma ve Gönderme
    * FTP İşlemleri
    * Dağıtık Uygulamaların Temelleri
 
-* Çeşitli Dosya Formatları Üzerinde İşlemler
+* __Çeşitli Dosya Formatları Üzerinde İşlemler__
    * Dosya Sıkıştırma ve Açma İşlemleri 
    * CSV Dosyalarıyla ve Konfigürasyon Dosyalarıyla İşlemler
    * Temel XML İşlemleri
    * Temel HTML Parse İşlemleri
 
-* Numpy Kütüphanesinin Kullanımı
+* __Numpy Kütüphanesinin Kullanımı__
    * Numpy Kütüphanesinde Temel İşlemler
    * Numpy Dizileri İle Vektörel İşlemler
    * NumPy Dizilerinde İndeksleme ve Dilimleme
@@ -68,7 +68,7 @@
    * NumPy Dosya İşlemleri
    * İleri Düzey Numpy İşlemleri
 
-* Sembolik Matemetiksel İşlemler ve SymPy Kütüphanesinin Kullanımı
+* __Sembolik Matemetiksel İşlemler ve SymPy Kütüphanesinin Kullanımı__
    * SymPy Kütüphanesinin Tanıtımı
    * SymPy'da İfadelerin Oluşturulması ve İfade Ağaçları
    * İfadelerin Sadeleştirilmesi
@@ -76,13 +76,13 @@
    * İfadelerin Değerlerinin Elde Edilmesi
    * İfadeler Üzerinde Matematiksel İşlemler
 
-* Python'da Grafik Çizimleri ve PyPlot Kütüphanesinin Kullanımı
+* __Python'da Grafik Çizimleri ve PyPlot Kütüphanesinin Kullanımı__
    * Grafik Çizimi İle İlgili Temel Nesneler
    * Grafiklerin Çizdirilmesi
    * Çizim Nesnelerine İlişkin Ayrıntılar
    * Çizgi Grafikleri, Çubuk Grafikleri, Histogram'lar, Pasta Grafikleri
 
-* Pandas Kütüphanesinin Kullanımı
+* __Pandas Kütüphanesinin Kullanımı__
    * Pandas Kütüphanesinin Amacı
    * Seriler Üzerinde İşlemler
    * Seriler Üzerinde İndeksleme
@@ -96,7 +96,7 @@
    * Verilerin Gruplanması ve Birleştirilmesi
    * Pandas'ta Verilerin Görüntülenmesi
 
-* Özel Bazı Konular
+* __Özel Bazı Konular__
    * Şifreleme İşlemleri
    * Pyton'da Yazılım Test İşlemleri
    * Düzenli İfadelerle İşlemler (Regular Expressions)
