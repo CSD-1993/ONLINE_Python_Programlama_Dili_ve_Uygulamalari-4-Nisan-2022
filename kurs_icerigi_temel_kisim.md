@@ -1,4 +1,4 @@
-# Python Programlama Dili ve Uygulamaları Kursu Temel Kısım (80 saat)
+# Python Programlama Dili ve Uygulamaları Kursu       Temel Kısım (80 saat)
 
 * __Temel Kavramlar__
   * Programlama Dillerinin Tarihsel Gelişimi
