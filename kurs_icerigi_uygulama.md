@@ -12,33 +12,31 @@
     * Nesnelerin Seri Hale Getirilmesi 
     * Programların Komut Satırı Argümanları
 
-Python'da Veritabanı İşlemleri
+* Python'da Veritabanı İşlemleri
+   * Veritabanı Yönetim Sistemleri (VTYS)
+   * SqLite, MySQL ve SqlServer VTYS'leri Hakkında Temel Bilgiler
+   * İlişkisel Veritabanları
+   * Temel SQL Komutları
+   * Python'da VTSY'e Bağlanma
+   * VTYS'lere SQL Komutlarının Gönderilmesi
+   * VTYS'lerle Sorgulama İşlemleri
+   * Python'da Anahtar Değer Temelli DBM Veritabanı Kullanımı
 
-Veritabanı Yönetim Sistemleri (VTYS)
-SqLite, MySQL ve SqlServer VTYS'leri Hakkında Temel Bilgiler
-İlişkisel Veritabanları
-Temel SQL Komutları
-Python'da VTSY'e Bağlanma
-VTYS'lere SQL Komutlarının Gönderilmesi
-VTYS'lerle Sorgulama İşlemleri
-Python'da Anahtar Değer Temelli DBM Veritabanı Kullanımı
-
-Python'da Thread Uygulamaları
-
-Thread Kavramı
-Thread'lerin Yaratılması ve Sonlanması
-Thread'lerle İlgili Temel İşlemler
-Thread'lerin Stack'leri
-Thread'lerin Bloke Olması
-Thread Senkronizasyonu
-Lock (Mutex) Mekanizması
-Semaphore Nesnelerinin Kullanımı
-Tipik Senkronizasyon Problemlerinin Ele Alınması
-Senkronize Kuyruk Nesneleri
-Python'da Paralel Programlama
-Prosesler Arası Haberleşme Kavramı
-Paylaşılan Bellek Alanlarının Kullanımı
-Boru Mekanizmasının Kullanımı
+* Python'da Thread Uygulamaları
+   * Thread Kavramı
+   * Thread'lerin Yaratılması ve Sonlanması
+   * Thread'lerle İlgili Temel İşlemler
+   * Thread'lerin Stack'leri
+   * Thread'lerin Bloke Olması
+   * Thread Senkronizasyonu
+   * Lock (Mutex) Mekanizması
+   * Semaphore Nesnelerinin Kullanımı
+   * Tipik Senkronizasyon Problemlerinin Ele Alınması
+   * Senkronize Kuyruk Nesneleri
+   * Python'da Paralel Programlama
+   * Prosesler Arası Haberleşme Kavramı
+   * Paylaşılan Bellek Alanlarının Kullanımı
+   * Boru Mekanizmasının Kullanımı
 
 Python'da GUI Uygulamaları
 
