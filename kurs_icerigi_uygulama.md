@@ -38,74 +38,66 @@
    * Paylaşılan Bellek Alanlarının Kullanımı
    * Boru Mekanizmasının Kullanımı
 
-Python'da GUI Uygulamaları
+* Python'da GUI Uygulamaları
+   * GUI Ortamlarında Mesaj Tabanlı Çalışma Modeli
+   * PyQt Kütüphanesinin Kullanılması
+   * Tkinter Kütüphanesinin Kullanılması
 
-GUI Ortamlarında Mesaj Tabanlı Çalışma Modeli
-PyQt Kütüphanesinin Kullanılması
-Tkinter Kütüphanesinin Kullanılması
+* Python'da Proseslerarası Haberleşme ve Network Ağ Haberleşmeleri
+   * IP Protokol Ailesi
+   * Python'da Soket Programlama
+   *Client-Server Çalışma Modeli
+   * TCP/IP Uygulamaları
+   * UDP/IP Uygulamaları
+   * E-Posta Alma ve Gönderme
+   * FTP İşlemleri
+   * Dağıtık Uygulamaların Temelleri
 
-Python'da Proseslerarası Haberleşme ve Network Ağ Haberleşmeleri
+* Çeşitli Dosya Formatları Üzerinde İşlemler
+   * Dosya Sıkıştırma ve Açma İşlemleri 
+   * CSV Dosyalarıyla ve Konfigürasyon Dosyalarıyla İşlemler
+   * Temel XML İşlemleri
+   * Temel HTML Parse İşlemleri
 
-IP Protokol Ailesi
-Python'da Soket Programlama
-Client-Server Çalışma Modeli
-TCP/IP Uygulamaları
-UDP/IP Uygulamaları
-E-Posta Alma ve Gönderme
-FTP İşlemleri
-Dağıtık Uygulamaların Temelleri
+* Numpy Kütüphanesinin Kullanımı
+   * Numpy Kütüphanesinde Temel İşlemler
+   * Numpy Dizileri İle Vektörel İşlemler
+   * NumPy Dizilerinde İndeksleme ve Dilimleme
+   * NumPy Kütüphanesinde Vektörel İşlemler Yapan Fonksiyonlar
+   * NumPy ile Lineer Cebir İşlemleri
+   * NumPy Dosya İşlemleri
+   * İleri Düzey Numpy İşlemleri
 
-Çeşitli Dosya Formatları Üzerinde İşlemler
+* Sembolik Matemetiksel İşlemler ve SymPy Kütüphanesinin Kullanımı
+   * SymPy Kütüphanesinin Tanıtımı
+   * SymPy'da İfadelerin Oluşturulması ve İfade Ağaçları
+   * İfadelerin Sadeleştirilmesi
+   * İfadelerin Açılması
+   * İfadelerin Değerlerinin Elde Edilmesi
+   * İfadeler Üzerinde Matematiksel İşlemler
 
-Dosya Sıkıştırma ve Açma İşlemleri 
-CSV Dosyalarıyla ve Konfigürasyon Dosyalarıyla İşlemler
-Temel XML İşlemleri
-Temel HTML Parse İşlemleri
+* Python'da Grafik Çizimleri ve PyPlot Kütüphanesinin Kullanımı
+   * Grafik Çizimi İle İlgili Temel Nesneler
+   * Grafiklerin Çizdirilmesi
+   * Çizim Nesnelerine İlişkin Ayrıntılar
+   * Çizgi Grafikleri, Çubuk Grafikleri, Histogram'lar, Pasta Grafikleri
 
-Numpy Kütüphanesinin Kullanımı
+* Pandas Kütüphanesinin Kullanımı
+   * Pandas Kütüphanesinin Amacı
+   * Seriler Üzerinde İşlemler
+   * Seriler Üzerinde İndeksleme
+   * Seriler Üzerinde Dilimleme
+   * DataFrame Nesneleri
+   * DaraFrame Üzerinde Satır ve Sütun Seçme İşlemleri
+   * DataFrame' Sütun Ekleme ve Silme
+   * DataFrame Üzerinde Aritmetik İşlemler
+   * CSV Dosyalarının DataFrame Olarak Okunması
+   * Eksik Veriler Üzerinde İşlemler
+   * Verilerin Gruplanması ve Birleştirilmesi
+   * Pandas'ta Verilerin Görüntülenmesi
 
-Numpy Kütüphanesinde Temel İşlemler
-Numpy Dizileri İle Vektörel İşlemler
-NumPy Dizilerinde İndeksleme ve Dilimleme
-NumPy Kütüphanesinde Vektörel İşlemler Yapan Fonksiyonlar
-NumPy ile Lineer Cebir İşlemleri
-NumPy Dosya İşlemleri
-İleri Düzey Numpy İşlemleri
-
-Sembolik Matemetiksel İşlemler ve SymPy Kütüphanesinin Kullanımı
-
-SymPy Kütüphanesinin Tanıtımı
-SymPy'da İfadelerin Oluşturulması ve İfade Ağaçları
-İfadelerin Sadeleştirilmesi
-İfadelerin Açılması
-İfadelerin Değerlerinin Elde Edilmesi
-İfadeler Üzerinde Matematiksel İşlemler
-
-Python'da Grafik Çizimleri ve PyPlot Kütüphanesinin Kullanımı
-
-Grafik Çizimi İle İlgili Temel Nesneler
-Grafiklerin Çizdirilmesi
-Çizim Nesnelerine İlişkin Ayrıntılar
-Çizgi Grafikleri, Çubuk Grafikleri, Histogram'lar, Pasta Grafikleri
-
-Pandas Kütüphanesinin Kullanımı
-
-Pandas Kütüphanesinin Amacı
-Seriler Üzerinde İşlemler
-Seriler Üzerinde İndeksleme
-Seriler Üzerinde Dilimleme
-DataFrame Nesneleri
-DaraFrame Üzerinde Satır ve Sütun Seçme İşlemleri
-DataFrame' Sütun Ekleme ve Silme
-DataFrame Üzerinde Aritmetik İşlemler
-CSV Dosyalarının DataFrame Olarak Okunması
-Eksik Veriler Üzerinde İşlemler
-Verilerinb Gruplanması ve Birleştirilmesi
-Pandas'ta Verilerin Görüntülenmesi
-
-Özel Bazı Konular
-
-Şifreleme İşlemleri
-Pyton'da Yazılım Test İşlemleri
-Düzenli İfadelerle İşlemler (Regular Expressions)
-Python'dan C ve C++ Kodlarının Çağrılması
+* Özel Bazı Konular
+   * Şifreleme İşlemleri
+   * Pyton'da Yazılım Test İşlemleri
+   * Düzenli İfadelerle İşlemler (Regular Expressions)
+   * Python'dan C ve C++ Kodlarının Çağrılması
