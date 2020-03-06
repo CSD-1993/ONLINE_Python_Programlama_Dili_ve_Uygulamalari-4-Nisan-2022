@@ -1,7 +1,7 @@
-## Pyton Programlama Dili ve Uygulamalar Kursu
+## Python Programlama Dili ve Uygulamaları Kursu
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
-+ Kurs `23 Ocak 2020` tarihinde başlayacaktır.
++ Kurs `4 Nisan 2020` tarihinde başlayacaktır.
 + Kurs eğitmeni `Kaan Aslan`'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi `160` saattir. Kursun `80`saatlik kısmı temel düzeyde Python dilini anlatmaktadır. Kursun 2. kısmı uygulama ağırlıklıdır. Daha önce temel kısmın eğitimini alan katılımcılar kursun yalnızca 2. kısmına katılabilirler. 
