@@ -13,5 +13,5 @@
 + [Kurs İçeriği - Temel Kısım](https://github.com/CSD-1993/Pyton_Programlama_Dili_ve_Uygulamalari/blob/master/kurs_icerigi_temel_kisim.md)
 + [Kurs İçeriği - Uygulama Kısmı](https://github.com/CSD-1993/Pyton_Programlama_Dili_ve_Uygulamalari/edit/master/kurs_icerigi_uygulama.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Pyton_Programlama_Dili_ve_Uygulamalari/blob/master/sss.md)
-+ [Kursa Kayıt](https://zoom.us/meeting/register/v5Qld--oqD0rVJfrvoJARlKBjXL6DywZAQ)
++ [Kursa Kayıt](https://zoom.us/meeting/register/tZIucuCrqj8jKyo4n39H3ZTovcT8it26eA?_ga=2.54643819.1721398658.1583314146-125853034.1581537696)
 
