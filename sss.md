@@ -29,5 +29,8 @@ Tabi ki.
 ### Dersleri kayıt edebilir miyim?
 Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.
 
+### Daha önce C ve Sistem Programcıları Derneğinde Python kursuna katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
+Hayır. Ancak C ve Sistem Programcıları Derneğinde düzenlenmekte olan örgün kurslara tekrar amaçlı katılabilirsiniz.
+
 ### Kurs bitiminde sertifika alabilecek miyim?
 Evet. Bu kurs sonunda kursa katılanlara `C ve Sistem Programcıları Derneği` tarafından düzenlenen bitirme sertifikası verilecektir.
