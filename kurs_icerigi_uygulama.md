@@ -101,3 +101,7 @@
    * Pyton'da Yazılım Test İşlemleri
    * Düzenli İfadelerle İşlemler (Regular Expressions)
    * Python'dan C ve C++ Kodlarının Çağrılması
+
+# Kursa Kayıt
+Kursa aşağıdaki bağlantıdan ön kayıt yaptırabilirsiniz:<br>
+[Kursa Kayıt](https://zoom.us/meeting/register/tZIucuCrqj8jKyo4n39H3ZTovcT8it26eA)
