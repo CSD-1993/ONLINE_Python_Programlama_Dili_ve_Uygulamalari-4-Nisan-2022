@@ -180,3 +180,7 @@
     * Paketlerdeki \__init\__.py Dosyasının Anlamı
     * İç İçe Paketlerin Oluşturulması
     * Paket Yönetimi
+    
+ # Kursa Kayıt
+Kursa aşağıdaki baplantıdan ön kayıt yaptırabilirsiniz:<br>
+[Kursa Kayıt](https://zoom.us/meeting/register/tZIucuCrqj8jKyo4n39H3ZTovcT8it26eA)
