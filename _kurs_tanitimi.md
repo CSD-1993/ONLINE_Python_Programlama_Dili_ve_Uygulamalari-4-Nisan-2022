@@ -26,7 +26,7 @@ Dersler <b>Cumartesi-Pazar</b> günleri saat <b>17:00-21:00</b> saatleri arasın
 Kurs <b>C ve Sistem Programcıları Derneği</b> başkanı <b>Kaan ASLAN</b> tarafından verilmektedir. <b>Kaan ASLAN</b> yazılım alanında Türkiye’deki en deneyimli eğitmenlerdendir. Çeşitli pozisyonlarda onlarca projede bulunmuş, `200`’ün üzerinde kuruma eğitim ve danışmanlık hizmetleri vermiştir. 
 
 # Kursa Kayıt
-Kursa aşağıdaki baplantıdan ön kayıt yaptırabilirsiniz:<br>
+Kursa aşağıdaki bağlantıdan ön kayıt yaptırabilirsiniz:<br>
 [Kursa Kayıt](https://zoom.us/meeting/register/tZIucuCrqj8jKyo4n39H3ZTovcT8it26eA)
 
 
