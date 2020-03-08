@@ -20,7 +20,7 @@ Bu kurs için katılımcıların temel programlama bilgisine sahip olması gerek
 Eğitim Süresi <b>160</b> Saattir.
 
 ## Ders Saatleri
-Dersler hafta içi <b>Cumartesi-Pazar</b> günleri saat <b>17:00-21:00</b> saatleri arasında `4`’er saat olarak `(haftada 8 saat)` yapılacaktır.
+Dersler <b>Cumartesi-Pazar</b> günleri saat <b>17:00-21:00</b> saatleri arasında `4`’er saat olarak `(haftada 8 saat)` yapılacaktır.
 
 # Eğitmen
 Kurs <b>C ve Sistem Programcıları Derneği</b> başkanı <b>Kaan ASLAN</b> tarafından verilmektedir. <b>Kaan ASLAN</b> yazılım alanında Türkiye’deki en deneyimli eğitmenlerdendir. Çeşitli pozisyonlarda onlarca projede bulunmuş, `200`’ün üzerinde kuruma eğitim ve danışmanlık hizmetleri vermiştir. 
