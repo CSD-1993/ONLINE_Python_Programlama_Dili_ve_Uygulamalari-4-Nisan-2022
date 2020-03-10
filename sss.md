@@ -1,15 +1,15 @@
 # Online Python Programlama Dili ve Uygulamaları Kursu – Sık Sorulan Sorular
 
-Aşağıda `Kaan Aslan` tarafından verilen `Online Python Programlama Dili ve Uygulamaları Kursu` ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
+Aşağıda __Kaan Aslan__ tarafından verilen __Online Python Programlama Dili ve Uygulamaları Kursu__ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
 ### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
-Hayır. C ve Sistem Programcıları Derneği olarak düzenlediğimiz online kursların bir dezavantaj oluşturmadığını görüyoruz. Kişiden kişiye değişebilmekle birlikte, öğrencinin eğitimi ev ya da çalışma ortamında daha rahat ve konforlu bir şekilde izlemesi genel olarak verimi arttırıyor. Ayrıca eğitime fiziksel olarak katılmanız durumunda, büyük kentlerdeki trafik koşulları düşünüldüğünde ulaşım için harcayacağınız süreden tasarruf etmiş oluyorsunuz.
+Hayır. __C ve Sistem Programcıları Derneği__ olarak düzenlediğimiz online kursların bir dezavantaj oluşturmadığını görüyoruz. Kişiden kişiye değişebilmekle birlikte, öğrencinin eğitimi ev ya da çalışma ortamında daha rahat ve konforlu bir şekilde izlemesi genel olarak verimi arttırıyor. Ayrıca eğitime fiziksel olarak katılmanız durumunda, büyük kentlerdeki trafik koşulları düşünüldüğünde ulaşım için harcayacağınız süreden tasarruf etmiş oluyorsunuz.
 
 ### Dersleri akıllı telefondan ya da mobil bir cihaz üzerinden takip edebilir miyim?
 Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisayar kullanılmasını öneriyoruz. İnternet bağlantısı olan herhangi bir yerden derslere katılabilirsiniz.
 
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
-Dersleri izleyen 3 gün içinde dersleri size özel verilecek şifre ile `Vimeo`'dan izleyebilirsiniz.
+Dersleri izleyen __3__ gün içinde dersleri size özel verilecek şifre ile __Vimeo__ üzerinden izleyebilirsiniz.
 
 ### 160 saatlik bir kurs süresi çok uzun değil mi?
 Eğitim içeriği göz önüne alındığında `160` saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
