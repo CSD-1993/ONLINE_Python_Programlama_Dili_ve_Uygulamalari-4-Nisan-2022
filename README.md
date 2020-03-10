@@ -1,6 +1,6 @@
 ## Python Programlama Dili ve Uygulamaları Kursu
 
-+ Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
++ Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
 + Kurs __4 Nisan 2020__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + Kurs gerçek zamanlıdır.
