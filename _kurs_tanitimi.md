@@ -9,8 +9,6 @@ Kursun temel özellikleri şöyle betimlenebilir:
 
 * Kurs iki kısımdan oluşmaktadır. Birinci kısım programlama dili üzerinde yoğunlaşırken ikinci kısım tamamen uygulama geliştirme konusuna yoğunlaşmaktadır. Dilerseniz kursun yanlnızca uygulama kısmına katılabilirsiniz.
 
-* Kursta irili ufaklı __100__'ün üzerinde uygulama yapılacaktır.
-
 * Kurs __Yapay Zeka ve Makine Öğrenmesi__ kursu için bir hazırlık kursu işlevini de görmektedir. 
 
 ## Ön Koşul
