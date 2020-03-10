@@ -4,7 +4,7 @@
 + Kurs `4 Nisan 2020` tarihinde başlayacaktır.
 + Kurs eğitmeni `Kaan Aslan`'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi `160` saattir. Kursun `80`saatlik kısmı temel düzeyde Python dilini anlatmaktadır. Kursun 2. kısmı uygulama ağırlıklıdır. Daha önce temel kısmın eğitimini alan katılımcılar kursun yalnızca 2. kısmına katılabilirler. 
++ Toplam kurs süresi `160` saattir. Kursun `80`saatlik kısmı temel düzeyde __Python__ dilini anlatmaktadır. Kursun 2. kısmı uygulama ağırlıklıdır. Daha önce temel kısmın eğitimini alan katılımcılar kursun yalnızca 2. kısmına katılabilirler. 
 + Kursta irili ufaklı `100`'ün üzerinde uygulama yapılacaktır.
 + Dersler `Cumartesi ve Pazar` günleri `17:00 - 21:00` saatleri arasında `4`'er saat `(haftada 8 saat)` yapılacaktır. 
 + Kursun toplam ücreti `KDV dahil 3.200 TL`‘dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) `%10` indirim uygulanmaktadır. Katılımcılar kurs ücretini dilerlerse `2 taksitte` ödeyebilirler.
