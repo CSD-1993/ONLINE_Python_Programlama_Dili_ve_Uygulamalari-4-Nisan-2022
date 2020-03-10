@@ -1,4 +1,4 @@
-## Python Programlama Dili ve Uygulamaları Kursu
+## Online Python Programlama Dili ve Uygulamaları Kursu
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
 + Kurs __4 Nisan 2020__ tarihinde başlayacaktır.
