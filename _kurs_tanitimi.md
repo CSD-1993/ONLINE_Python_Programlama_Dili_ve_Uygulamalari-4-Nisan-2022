@@ -9,7 +9,7 @@ Kursun temel özellikleri şöyle betimlenebilir:
 
 * Kurs iki kısımdan oluşmaktadır. Birinci kısım programlama dili üzerinde yoğunlaşırken ikinci kısım tamamen uygulama geliştirme konusuna yoğunlaşmaktadır. Dilerseniz kursun yanlnızca uygulama kısmına katılabilirsiniz.
 
-* Kursta irili ufaklı `100`'ün üzerinde uygulama yapılacaktır.
+* Kursta irili ufaklı __100__'ün üzerinde uygulama yapılacaktır.
 
 * Kurs __Yapay Zeka ve Makine Öğrenmesi__ kursu için bir hazırlık kursu işlevini de görmektedir. 
 
@@ -20,10 +20,10 @@ Bu kurs için katılımcıların temel programlama bilgisine sahip olması gerek
 Eğitim Süresi __160__ Saattir.
 
 ## Ders Saatleri
-Dersler <b>Cumartesi-Pazar</b> günleri saat <b>17:00-21:00</b> saatleri arasında `4`’er saat olarak `(haftada 8 saat)` yapılacaktır.
+Dersler __Cumartesi-Pazar__ günleri saat __17:00-21:00__ saatleri arasında __4__ ’er saat olarak __(haftada 8 saat)__ yapılacaktır.
 
 # Eğitmen
-Kurs <b>C ve Sistem Programcıları Derneği</b> başkanı <b>Kaan ASLAN</b> tarafından verilmektedir. <b>Kaan ASLAN</b> yazılım alanında Türkiye’deki en deneyimli eğitmenlerdendir. Çeşitli pozisyonlarda onlarca projede bulunmuş, `200`’ün üzerinde kuruma eğitim ve danışmanlık hizmetleri vermiştir. 
+Kurs __C ve Sistem Programcıları Derneği__ başkanı __Kaan ASLAN__ tarafından verilmektedir. __Kaan ASLAN__ yazılım alanında Türkiye’deki en deneyimli eğitmenlerdendir. Çeşitli pozisyonlarda onlarca projede bulunmuş, __200__’ün üzerinde kuruma eğitim ve danışmanlık hizmetleri vermiştir. 
 
 # Kursa Kayıt
 Kursa aşağıdaki bağlantıdan ön kayıt yaptırabilirsiniz:<br>
