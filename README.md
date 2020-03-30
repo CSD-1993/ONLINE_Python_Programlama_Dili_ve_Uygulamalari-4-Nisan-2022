@@ -1,4 +1,4 @@
-# Kurs Eğitmenimiz Kaan Aslan'ın sağlık durumu nedeniyle 16 Mayıs 2020 tarihine ertelenmiştir.
+# Bu kurs eğitmenimiz Kaan Aslan'ın sağlık durumu nedeniyle 16 Mayıs 2020 tarihine ertelenmiştir.
 
 ## Online Python Programlama Dili ve Uygulamaları Kursu
 
