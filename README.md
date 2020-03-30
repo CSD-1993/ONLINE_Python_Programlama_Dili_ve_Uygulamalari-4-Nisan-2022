@@ -1,7 +1,9 @@
 ## Online Python Programlama Dili ve Uygulamaları Kursu
 
+Kurs Eğitmenimiz Kaan Aslan'ın sağlık durumu nedeniyle 16 Mayıs 2020 tarihine ertelenmiştir.
+
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
-+ Kurs __4 Nisan 2020__ tarihinde başlayacaktır.
++ Kurs __16 Mayıs 2020__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi __160__ saattir. Kursun __80__ saatlik kısmı temel düzeyde __Python__ dilini anlatmaktadır. Kursun 2. kısmı uygulama ağırlıklıdır. __Daha önce temel kısmın eğitimini alan katılımcılar kursun yalnızca 2. kısmına katılabilirler.__
