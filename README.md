@@ -1,6 +1,8 @@
+# Kurs Eğitmenimiz Kaan Aslan'ın sağlık durumu nedeniyle 16 Mayıs 2020 tarihine ertelenmiştir.
+
 ## Online Python Programlama Dili ve Uygulamaları Kursu
 
-Kurs Eğitmenimiz Kaan Aslan'ın sağlık durumu nedeniyle 16 Mayıs 2020 tarihine ertelenmiştir.
+
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
 + Kurs __16 Mayıs 2020__ tarihinde başlayacaktır.
