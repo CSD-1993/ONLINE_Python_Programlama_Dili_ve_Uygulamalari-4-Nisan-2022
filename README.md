@@ -1,5 +1,3 @@
-# Bu kurs 16 Mayıs 2020 tarihine ertelenmiştir.
-
 ## Online Python Programlama Dili ve Uygulamaları Kursu
 
 
