@@ -15,10 +15,10 @@ Kursun temel özellikleri şöyle betimlenebilir:
 Bu kurs için katılımcıların temel programlama bilgisine sahip olması gerekmektedir. 
 
 ## Eğitim Süresi
-Eğitim Süresi __160__ Saattir.
+Eğitim Süresi __220__ Saattir.
 
 ## Ders Saatleri
-Dersler _Cumartesi-Pazar__ günleri saat __17:00-21:00__ saatleri arasında __4__ ’er saat olarak __(haftada 8 saat)__ yapılacaktır.
+Dersler __Pazartesi-Çarşamba__ günleri saat __19:45-22:45__ saatleri arasında __3__ ’er saat olarak __(haftada 6 saat)__ yapılacaktır.
 
 # Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkanı __Kaan ASLAN__ tarafından verilmektedir. __Kaan ASLAN__ yazılım alanında Türkiye’deki en deneyimli eğitmenlerdendir. Çeşitli pozisyonlarda onlarca projede bulunmuş, __200__’ün üzerinde kuruma eğitim ve danışmanlık hizmetleri vermiştir. 
