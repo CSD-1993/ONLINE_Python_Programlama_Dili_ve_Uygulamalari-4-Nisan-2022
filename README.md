@@ -3,12 +3,12 @@
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
-+ Kurs __16 Mayıs 2020__ tarihinde başlayacaktır.
++ Kurs __4 Nisan 2022__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
-+ Toplam kurs süresi __160__ saattir. Kursun __80__ saatlik kısmı temel düzeyde __Python__ dilini anlatmaktadır. Kursun 2. kısmı uygulama ağırlıklıdır. __Daha önce temel kısmın eğitimini alan katılımcılar kursun yalnızca 2. kısmına katılabilirler.__
-+ Dersler __Cumartesi ve Pazar__ günleri __17:00 - 21:00__ saatleri arasında __4__'er saat __(haftada 8 saat)__ yapılacaktır. 
-+ Kursun toplam ücreti __KDV dahil 3.200 TL__‘dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) `%10` indirim uygulanmaktadır. Katılımcılar kurs ücretini dilerlerse __2 taksitte__ ödeyebilirler.
++ Toplam kurs süresi __220__ saattir. Kursun __110__ saatlik kısmı temel düzeyde __Python__ dilini anlatmaktadır. Kursun 2. kısmı uygulama ağırlıklıdır.
++ Dersler __Pazartesi ve Çarşamba__ günleri __19:45 - 22:45__ saatleri arasında __3__'er saat __(haftada 6 saat)__ yapılacaktır. 
++ Kursun toplam ücreti __KDV dahil 5.800 TL__‘dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) `%10` indirim uygulanmaktadır. Katılımcılar kurs ücretini dilerlerse __2 taksitte__ ödeyebilirler.
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Python_Programlama_Dili_ve_Uygulamalari/blob/master/_kurs_tanitimi.md
