@@ -8,7 +8,7 @@
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi __220__ saattir. Kursun __110__ saatlik kısmı temel düzeyde __Python__ dilini anlatmaktadır. Kursun 2. kısmı uygulama ağırlıklıdır.
 + Dersler __Pazartesi ve Çarşamba__ günleri __19:45 - 22:45__ saatleri arasında __3__'er saat __(haftada 6 saat)__ yapılacaktır. 
-+ Kursun toplam ücreti __KDV dahil 5.800 TL__‘dir. Öğrenci olanlara(öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 5.400 TL'dir. Katılımcılar kurs ücretini dilerlerse __2 taksitte__ ödeyebilirler.
++ Kursunuzun toplam ücreti __KDV dahil 5.800 TL__'dir. Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 5.400 TL__'dir. Öğrencilerimiz kurs ücretini peşin ya da __2 taksit__ olarak ödeyebilirler.
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Python_Programlama_Dili_ve_Uygulamalari/blob/master/_kurs_tanitimi.md
