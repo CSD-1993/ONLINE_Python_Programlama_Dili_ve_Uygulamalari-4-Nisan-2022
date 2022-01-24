@@ -1,4 +1,4 @@
-# Online Python Programlama Dili ve Uygulamaları Kursu <br>Temel Kısım (110 saat)
+# Online Python Programlama Dili ve Uygulamaları Kursu <br> - Temel Kısım (110 saat)
 
 * __Temel Kavramlar__
   * Programlama Dillerinin Tarihsel Gelişimi
